@@ -85,137 +85,24 @@
     {
       "nome": "alex",
       "carne": "Alcatra",
-      "pao": "Italiano Branco",
+      "pao": "Pão Mexicano",
       "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame",
-        "Tomate",
-        "Pepino"
+        "Bacon"
       ],
       "status": "Solicitado",
       "id": 1
     },
     {
-      "nome": "TainaraMae",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
+      "nome": "Alex Junior",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
-        "Cheddar",
         "Salame",
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
+        "Cebola roxa"
       ],
       "status": "Solicitado",
       "id": 2
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "ALEX JUNIOR BARRETO",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "",
-      "carne": "",
-      "pao": "",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "TainaraMae",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "portifolio-alex-barreto",
-      "carne": "Hambúrguer vegetariano",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": "planos caros",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "nome": "",
-      "carne": "",
-      "pao": "",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 9
-    },
-    {
-      "nome": "dsfsdf",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 10
-    },
-    {
-      "nome": "sfsd",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 11
-    },
-    {
-      "nome": "fsdf",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 12
-    },
-    {
-      "nome": "Alex Junior",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 13
     }
   ]
 }
