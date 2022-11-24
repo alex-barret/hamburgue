@@ -83,16 +83,14 @@
   ],
   "burgers": [
     {
-      "nome": "Alex Junior",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "nome": "TainaraMae",
+      "carne": "Alcatra",
+      "pao": "Integral",
       "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
+        "Bacon"
       ],
-      "status": "Finalizado",
-      "id": 2
+      "status": "Solicitado",
+      "id": 1
     }
   ]
 }
