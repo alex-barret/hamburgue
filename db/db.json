@@ -83,16 +83,6 @@
   ],
   "burgers": [
     {
-      "nome": "alex",
-      "carne": "Alcatra",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
       "nome": "Alex Junior",
       "carne": "Maminha",
       "pao": "3 Queijos",
@@ -101,7 +91,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     }
   ]
